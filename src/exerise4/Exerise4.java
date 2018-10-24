@@ -17,6 +17,7 @@ public class Exerise4 {
     public static void main(String[] args) 
     {
         System.out.println("Hello World");
+        System.out.println("I am here Simon, I see you...");
        
     }
     
